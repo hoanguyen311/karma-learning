@@ -1,7 +1,7 @@
 describe('Array', function  () {
     var arr;
     before(function() {
-        arr = [ 2, 4, 0, 4];
+        arr = [ 2, 4, 0, 0];
     });
 
     it('Shoul be an array', function() {
